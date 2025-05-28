@@ -121,7 +121,6 @@ p {
   background-color: hsl(30, 10%, 34%);
   color: #fff;
   text-align: center;
-  position: fixed;
   bottom: 0;
   padding-top: 12px;
 }
