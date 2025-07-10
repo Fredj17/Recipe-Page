@@ -14,14 +14,14 @@ body {
   margin: 50px auto;
   padding: 25px;
   border: transparent;
-  width: 650px;
+  max-width: 650px;
   height: auto;
   border-radius: 10px;
   background-color: hsl(0, 0%, 100%);
 }
 .img_1 {
-  width: 600px;
-  height: 300px;
+  width: 100%;
+  height: auto;
 
   display: flex;
   align-items: center;
@@ -43,7 +43,6 @@ p {
   font-size: inherit;
 }
 .prep {
-  width: 600px;
   height: auto;
   border: transparent;
   background-color: hsla(332, 51%, 32%, 0.1);
